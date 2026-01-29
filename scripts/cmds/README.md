@@ -1,22 +1,22 @@
 <img
-src="https://i.imgur.com/XN11Cm1.jpeg" alt="banner">
+src="https://i.postimg.cc/Prr6g9X9/Shizuka-Beb.png" alt="banner">
 
 <h1 align="center">
-  <img src="https://i.imgur.com/ZfuZrPc.jpeg" width="22px" alt="icon">
-  Messenger Bot Commands Store by MahMUD.
+  <img src="https://i.postimg.cc/zf1TrHwD/c561f51ac11308356a1ec62f82787f0c.jpg" width="22px" alt="icon">
+  Messenger Bot Commands Store by MEHERAJ.
 </h1>
 
 
 If you find any issues, please report them!
 
 
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud.x07" style="color: black;">Mah M UD</a></h3></div>
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/junghoseog.2025" style="color: black;">MEHERAJ</a></h3></div>
 
 <p align="center"><a href="fb link" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/M6xV2Np.jpeg" width="100" style="margin-right: 10px;"></a>
+  <img src="https://i.postimg.cc/02yCrSJd/Copilot-20260129-213926.png" width="100" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
->🎀 Mah MUD
+>🎀 Meheraj
 </h5>
  
 
@@ -26,7 +26,7 @@ cmds is a command for GoatBot v2 that provides a paginated list of available com
 
 ## Command Information
 - **Name:** cmds
-- **Author:** MahMUD
+- **Author:** Meheraj
 - **Version:** 1.7
 - **Category:** General
 - **Role Required:** 0 (Everyone)
@@ -76,7 +76,7 @@ cmds is a command for GoatBot v2 that provides a paginated list of available com
   *Bot response:*  
   ```
   ╭─‣ 1: jan
-  ├‣ Author: MahMUD
+  ├‣ Author: Meheraj
   ├‣ Update: 21-03-2025
   ╰────────────◊
   ```
@@ -94,17 +94,14 @@ cmds is a command for GoatBot v2 that provides a paginated list of available com
 
 2. Add the `cmds` command file to your GoatBot `commands` directory.
 
-## Notes
-- The command fetches data from:  
-- Commands List: [`CMDSRUL.json`](https://raw.githubusercontent.com/mahmudx7/exe/main/CMDSRUL.json)  
-- Command URLs: [`CMDS.json`](https://raw.githubusercontent.com/mahmudx7/exe/main/CMDS.json)  
+## Notes 
 - If a command is not found, an error message is shown.
 - Pagination ensures that only 10 commands are displayed per page.
 
 ---
 
-**Maintained by:** MahMUD  
+**Maintained by:** Meheraj 
 If you find any issues, please report them!
 
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud0x7" style="color: black;">MahMUD</a></h3></div>
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/junghoseog.2025" style="color: black;">MEHERAJ</a></h3></div>
 
