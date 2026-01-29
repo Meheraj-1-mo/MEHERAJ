@@ -1,3 +1,4 @@
+
 const axios = require("axios");
 
 const mahmud = [
@@ -155,6 +156,7 @@ module.exports.onChat = async ({ api, event }) => {
       const res = await axios.post(`${await baseApiUrl()}/api/hinata`, { text, style: 3, attachments });  return res.data.message; } catch {  return "error janu🥹";
         }
       };
+
        const randomMessage = [
           "babu khuda lagse🥺",
           "Hop beda😾,Boss বল boss😼",  
@@ -345,8 +347,6 @@ module.exports.onChat = async ({ api, event }) => {
  "-দেশের সব কিছুই চুরি হচ্ছে-🙄-শুধু আমার বস সাহু এর মনটা ছাড়া-🥴😑😏",
  "-🫵তোমারে প্রচুর ভাল্লাগে-😽-সময় মতো প্রপোজ করমু বুঝছো-🔨😼-ছিট খালি রাইখো- 🥱🐸🥵",
  "-আজ থেকে আর কাউকে পাত্তা দিমু না -!😏-কারণ আমি ফর্সা হওয়ার ক্রিম কিনছি -!🙂🐸"
-         module.exports.config = {
-         
         ];
                                                                                                                     
         const hinataMessage = randomMessage[Math.floor(Math.random() * randomMessage.length)];
