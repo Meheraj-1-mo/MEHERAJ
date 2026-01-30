@@ -6,11 +6,11 @@ const ITEMS_PER_PAGE = 10;
 module.exports.config = {
   name: "cmdstore",
   aliases: ["cmds", "cs"],
-  author: "MahMUD",
+  author: "MEHERAJ",
   role: 0,
   version: "1.7",
   description: {
-    en: "Commands Store of MahMUD",
+    en: "Commands Store of MEHERAJ",
   },
   countDown: 3,
   category: "general",
@@ -56,7 +56,7 @@ module.exports.onStart = async function ({ api, event, args }) {
     const endIndex = startIndex + ITEMS_PER_PAGE;
     const cmdsToShow = finalArray.slice(startIndex, endIndex);
 
-    let msg = `╭─‣ 𝐇𝐈𝐍𝐀𝐓𝐀 𝐒𝐓𝐎𝐑𝐄 🎀\n├‣ 𝐀𝐃𝐌𝐈𝐍: 𝐌𝐚𝐡𝐌𝐔𝐃\n├‣ 𝐓𝐎𝐓𝐀𝐋 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒: ${finalArray.length}\n╰────────────◊\n`;
+    let msg = `╭─‣ 𝐒𝐇𝐈𝐙𝐔𝐊𝐀 𝐒𝐓𝐎𝐑𝐄 🎀\n├‣ 𝐀𝐃𝐌𝐈𝐍: 𝐌𝐄𝐇𝐄𝐑𝐀𝐉\n├‣ 𝐓𝐎𝐓𝐀𝐋 𝐂𝐎𝐌𝐌𝐀𝐍𝐃𝐒: ${finalArray.length}\n╰────────────◊\n`;
 
     cmdsToShow.forEach((cmd, index) => {
       msg += `╭─‣ ${startIndex + index + 1}: ${cmd.cmd}\n├‣ Author: ${cmd.author}\n├‣ Update: ${cmd.update}\n╰────────────◊\n`;
