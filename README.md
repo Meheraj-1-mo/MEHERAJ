@@ -1,9 +1,9 @@
 <img
-src="https://i.imgur.com/Mmo26FF.jpeg" alt="banner">
+src="https://i.postimg.cc/Prr6g9X9/Shizuka-Beb.png" alt="banner">
 
 <h1 align="center">
-  <img src="https://i.imgur.com/ZfuZrPc.jpeg" width="22px" alt="icon">
-  Hinata Bot - Bot Chat Messenger
+  <img src="https://i.postimg.cc/02yCrSJd/Copilot-20260129-213926.png" width="22px" alt="icon">
+ 𝑴𝒆𝒉𝒆𝒓𝒂𝒋 𝒄𝒉𝒂𝒕 𝑩𝒐𝒕 𝑭𝒐𝒓𝒌  🌺
 </h1>
 
 <p align="center">
@@ -18,37 +18,53 @@ src="https://i.imgur.com/Mmo26FF.jpeg" alt="banner">
 
 
 
-The original author of this Bot is Ntkhang. This fork is maintained by: MahMUD  
+The original author of this Bot is Ntkhang. This fork is maintained by: MEHERAJ 
 
 If you find any issues, please report them!
 
 
-𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/mahmud0x7" style="color: black;">Mah M UD</a></h3></div>
+𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤: <a href="https://www.facebook.com/junghoseog.2025" style="color: black;">MEHERAJ</a></h3></div>
 
 <p align="center"><a href="fb link" target="_blank" rel="noopener noreferrer">
-  <img src="https://i.imgur.com/M6xV2Np.jpeg" width="100" style="margin-right: 10px;"></a>
+  <img src="https://i.postimg.cc/3wjxWLGw/a601ea9bfc03a72b93f2007ae02d7aa1.jpg" width="100" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
->🎀 Mah MUD
+>🎀 MEHERAJ
 </h5>
 
+ ## 👨‍💻 **ABOUT THE DEVELOPER**  
+  
+**Name:** **`MEHERAJ HOSSAIN`**  
+**Nice Name:** **`MO`**  
+**Profession:** **`STUDENT & CHATBOT DEVELOPER`**  
+**Location:** **`CHITTAGONG, BANGLADESH`**  
 
-# 📝 **Tutorial**
-Tutorial has been uploaded on YouTube
-- For mobile phone: https://youtu.be/zJsemXLaRbY?si=f0PE6L4oCGzYBwPn
+### 📞 **CONTACT INFORMATION**  
+- **WhatsApp:** **[PERSONAL)**  
+- **Facebook:** **[Facebook ID](https://www.facebook.com/junghoseog.2025)**    
 
-**Contact me**
+### 🚀 **DEVELOPMENT APPROACH**  
+- 💻 **Copy-paste techniques with customizations**  
+- 🤝 **Collaborative development with friends**  
+- 🤖 **AI-powered using ChatGPT and other advanced tools**  
 
-<<div style="font-family: Arial, sans-serif; color: black;">
-  <h3>- <a href="https://www.facebook.com/mahmud0x7" style="color: black; text-decoration: none;" target="_blank" rel="noopener">MahMUD Facebook</a></h3>
-  <h3>- <a href="https://wa.me/8801836298139?text=Hi%20MahMUD%2C%20I%20want%20to%20chat%20with%20you!" style="color: black; text-decoration: none;" target="_blank" rel="noopener">MahMUD WhatsApp</a></h3>
-  <h3>- <a href="mahmudx007@gmail.com?subject=Hello%20MahMUD&body=Hi%20MahMUD!" style="color: black; text-decoration: none;">MahMUD Gmail</a></h3>
-</div>
-
- 
-
-<img align="center" src="https://i.imgur.com/UM3ekFf.jpeg"/>
+<img align="center" src="https://i.postimg.cc/jStsmHmz/612621109-896418862914522-7066807854355757624-n-(1).jpg"/>
 
 
-🔹ARIYAN MAHMUD
+## ✨🌟 Special Thanks 🌟✨
+
+- 🚀 **mo & nafij Bot Team**  
+- 🧙‍♂️ **Meheraj (Owner GITHUB Bot Team)**
+- 🛡️ **MEHERAJ (Admin Github Bot Team)**
+- 🎓 **Grandpa EJ (Owner Grandpa Academy)** 
+
+---
+
+💖 **Thank You For Choosing MEHERAJ 𝗖𝗵𝗮𝘁 𝗕𝗼𝘁!**  
+🗓️ *Release Date:* `11/08/2025 at 02:00`  
+⭐ **Please don't forget to give a star after forking! It really helps!**
+
+
+
+
 
